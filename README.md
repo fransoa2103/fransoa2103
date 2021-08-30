@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @françois
+- 👋 Hi, I’m @françois =)
 - 👀 I’m interested in computer programming and web development since 2020/october.
 - 🌱 I’m currently learning JS REACT and PHP/MYQSQL SYMFONY.
 - 💞️ I’m looking to work in a team in a company near CHAMBERY, AIX-LES-BAINS OR GRENOBLE.
