@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @françois =)
-- 👀 I’m interested in computer programming and web development since 2020/october.
+- 👀 I’m interested in computer programming since 2020/october but i started coding in 80's with an ATARI 520ST computer!
 - 🌱 I’m currently learning PHP/MYQSQL SYMFONY.
 - 💞️ I’m looking to work in a team in a company near ALBERTVILLE, CHAMBERY, AIX-LES-BAINS OR GRENOBLE.
 - 📫 How to reach me : https://fcb2103portfolio.herokuapp.com/
