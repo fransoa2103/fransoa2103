@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning dev back with PHP/MYQSQL & SYMFONY.
 - 💞️ I’m looking to work in a team in a company near ALBERTVILLE, CHAMBERY, AIX-LES-BAINS OR GRENOBLE.
 
-`
-<?php
-class Profil {
+`class Profil {`
         function __construct($firstName, $lastName, $quality_1, $quality_2, $quality_3, $quality_4,){
                 $this->firstName    = $firstName;
                 $this->lastName     = $lastName;
@@ -20,8 +18,6 @@ $newCrewMember = new Profil('François', 'Couvé-Bonnaire', 'warm', 'curious','t
 echo "Hello i'm ".$newCrewMember->firstName." ".$newCrewMember->lastName."<br/>";
 echo "Human profile : ".$newCrewMember->quality_1.", ".$newCrewMember->quality_2.", ".$newCrewMember->quality_3." and ".$newCrewMember->quality_1.".<br/>";
 echo "Nice to meet You!";
-?>
-`
 
 <!---
 fransoa2103/fransoa2103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
