@@ -13,13 +13,11 @@ class Profil {
                 $this->quality_4    = $quality_4;
         }
 }
-```
-```
-        $newCrewMember = new Profil('François', 'Couvé-Bonnaire', 'warm', 'curious','teamSpirit','greatWorker');
-        
-        echo "Hello i'm ".$newCrewMember->firstName." ".$newCrewMember->lastName."<br/>";
-        echo "Human profile : ".$newCrewMember->quality_1.", ".$newCrewMember->quality_2.", ".$newCrewMember->quality_3." and ".$newCrewMember->quality_1.".<br/>";
-        echo "Nice to meet You!";
+$newCrewMember = new Profil('François', 'Couvé-Bonnaire', 'warm', 'curious','teamSpirit','greatWorker');
+
+echo "Hello i'm ".$newCrewMember->firstName." ".$newCrewMember->lastName."<br/>";
+echo "Human profile : ".$newCrewMember->quality_1.", ".$newCrewMember->quality_2.", ".$newCrewMember->quality_3." and ".$newCrewMember->quality_1.".<br/>";
+echo "Nice to meet You!";
 ```
 
 <!---
