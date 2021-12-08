@@ -16,7 +16,7 @@ class Profil {
 $newCrewMember = new Profil('François', 'Couvé-Bonnaire', 'warm', 'curious','teamSpirit','greatWorker');
 
 echo "Hello i'm ".$newCrewMember->firstName." ".$newCrewMember->lastName."<br/>";
-echo "Human profile : ".$newCrewMember->quality_1.", ".$newCrewMember->quality_2.", ".$newCrewMember->quality_3." and ".$newCrewMember->quality_1.".<br/>";
+echo "Human profile : ".$newCrewMember->quality_1.", ".$newCrewMember->quality_2.", ".$newCrewMember->quality_3." and ".$newCrewMember->quality_4.".<br/>";
 echo "Nice to meet You!";
 ```
 
